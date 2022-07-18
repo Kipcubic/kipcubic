@@ -16,16 +16,13 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
  
-  <h1>
+  <h2>
     Hey there 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h2>
 </div>
 <div align="center">
 </div>
-
----
-
 ### :man_technologist: About Me :
 I am a Full Stack Developer developer (Laravel/PHP).
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
